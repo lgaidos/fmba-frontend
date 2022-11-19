@@ -1,1 +1,1 @@
-web: react-scripts start
+git initweb: react-scripts start
