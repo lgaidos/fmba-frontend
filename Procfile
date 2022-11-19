@@ -1,1 +1,1 @@
-git initweb: npm start
+git initweb:react-scripts start
